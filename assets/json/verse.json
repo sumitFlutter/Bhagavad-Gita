@@ -1,5 +1,6 @@
 [
-  [ {
+  {"1":[
+    {
     "chapter_id": 1,
     "chapter_number": 1,
     "externalId": 1,
@@ -563,8 +564,8 @@
       "transliteration": "sañjaya uvācha\nevam uktvārjunaḥ saṅkhye rathopastha upāviśhat\nvisṛijya sa-śharaṁ chāpaṁ śhoka-saṁvigna-mānasaḥ\n",
       "word_meanings": "sañjayaḥ uvācha—Sanjay said; evam uktvā—speaking thus; arjunaḥ—Arjun; saṅkhye—in the battlefield; ratha upasthe—on the chariot; upāviśhat—sat; visṛijya—casting aside; sa-śharam—along with arrows; chāpam—the bow; śhoka—with grief; saṁvigna—distressed; mānasaḥ—mind\n"
     }
-  ],
-  [ {
+  ]},
+  {"1": [ {
     "chapter_id": 2,
     "chapter_number": 2,
     "externalId": 48,
@@ -1428,8 +1429,8 @@
       "transliteration": "eṣhā brāhmī sthitiḥ pārtha naināṁ prāpya vimuhyati\nsthitvāsyām anta-kāle ’pi brahma-nirvāṇam ṛichchhati\n",
       "word_meanings": "eṣhā—such; brāhmī sthitiḥ—state of God-realization; pārtha—Arjun, the son of Pritha; na—never; enām—this; prāpya—having attained; vimuhyati—is deluded; sthitvā—being established; asyām—in this; anta-kāle—at the hour of death; api—even; brahma-nirvāṇam—liberation from Maya; ṛichchhati—attains\n"
     }
-  ],
-  [{
+  ]},
+  {"1":  [{
     "chapter_id": 3,
     "chapter_number": 3,
     "externalId": 120,
@@ -1945,8 +1946,8 @@
       "transliteration": "evaṁ buddheḥ paraṁ buddhvā sanstabhyātmānam ātmanā\njahi śhatruṁ mahā-bāho kāma-rūpaṁ durāsadam\n",
       "word_meanings": "evam—thus; buddheḥ—than the intellect; param—superior; buddhvā—knowing; sanstabhya—subdue; ātmānam—the lower self (senses, mind, and intellect); ātmanā—by higher self (soul); jahi—kill; śhatrum—the enemy; mahā-bāho—mighty-armed one; kāma-rūpam—in the form of desire; durāsadam—formidable\n"
     }
-  ],
-  [{
+  ]},
+  {"1":[{
     "chapter_id": 4,
     "chapter_number": 4,
     "externalId": 163,
@@ -2450,8 +2451,8 @@
       "transliteration": "tasmād ajñāna-sambhūtaṁ hṛit-sthaṁ jñānāsinātmanaḥ\nchhittvainaṁ sanśhayaṁ yogam ātiṣhṭhottiṣhṭha bhārata\n\n",
       "word_meanings": "tasmāt—therefore; ajñāna-sambhūtam—born of ignorance; hṛit-stham—situated in the heart; jñāna—of knowledge; asinā—with the sword; ātmanaḥ—of the self; chhittvā—cut asunder; enam—this; sanśhayam—doubt; yogam—in karm yog; ātiṣhṭha—take shelter; uttiṣhṭha—arise; bhārata—Arjun, descendant of Bharat\n\n"
     }
-  ],
-  [
+  ]},
+  {"1":[
     {
     "chapter_id": 5,
     "chapter_number": 5,
@@ -2800,8 +2801,8 @@
       "transliteration": "bhoktāraṁ yajña-tapasāṁ sarva-loka-maheśhvaram\nsuhṛidaṁ sarva-bhūtānāṁ jñātvā māṁ śhāntim ṛichchhati\n\n",
       "word_meanings": "bhoktāram—the enjoyer; yajña—sacrifices; tapasām—austerities; sarva-loka—of all worlds; mahā-īśhvaram—the Supreme Lord; su-hṛidam—the selfless Friend; sarva—of all; bhūtānām—the living beings; jñātvā—having realized; mām—me (Lord Krishna); śhāntim—peace; ṛichchhati—attains\n\n"
     }
-  ],
-  [{
+  ]},
+  {"1":[{
     "chapter_id": 6,
     "chapter_number": 6,
     "externalId": 234,
@@ -3365,8 +3366,8 @@
       "transliteration": "yoginām api sarveṣhāṁ mad-gatenāntar-ātmanā\nśhraddhāvān bhajate yo māṁ sa me yuktatamo mataḥ\n",
       "word_meanings": "yoginām—of all yogis; api—however; sarveṣhām—all types of; mat-gatena—absorbed in me (God); antaḥ—inner; ātmanā—with the mind; śhraddhā-vān—with great faith; bhajate—engage in devotion; yaḥ—who; mām—to me; saḥ—he; me—by me; yukta-tamaḥ—the highest yogi; mataḥ—is considered\n"
     }
-  ],
-  [{
+  ]},
+  {"1":[{
     "chapter_id": 7,
     "chapter_number": 7,
     "externalId": 281,
@@ -3726,8 +3727,8 @@
       "transliteration": "sādhibhūtādhidaivaṁ māṁ sādhiyajñaṁ cha ye viduḥ\nprayāṇa-kāle ’pi cha māṁ te vidur yukta-chetasaḥ\n",
       "word_meanings": "sa-adhibhūta—governing principle of the field of matter; adhidaivam—governing principle of the celestial gods; mām—me; sa-adhiyajñam—governing principle of the Lord all sacrificial performances; cha—and; ye—who; viduḥ—know; prayāṇa—of death; kāle—at the time; api—even; cha—and; mām—me; te—they; viduḥ—know; yukta-chetasaḥ—in full consciousness of me\n"
     }
-  ],
-  [ {
+  ]},
+  {"1":[ {
     "chapter_id": 8,
     "chapter_number": 8,
     "externalId": 311,
@@ -4063,8 +4064,8 @@
       "transliteration": "vedeṣhu yajñeṣhu tapaḥsu chaiva\ndāneṣhu yat puṇya-phalaṁ pradiṣhṭam\natyeti tat sarvam idaṁ viditvā\nyogī paraṁ sthānam upaiti chādyam\n",
       "word_meanings": "vedeṣhu—in the study of the Vedas; yajñeṣhu—in performance of sacrifices; tapaḥsu—in austerities; cha—and; eva—certainly; dāneṣhu—in giving charities; yat—which; puṇya-phalam—fruit of merit; pradiṣhṭam—is gained; atyeti—surpasses; tat sarvam—all; idam—this; viditvā—having known; yogī—a yogi; param—Supreme; sthānam—Abode; upaiti—achieves; cha—and; ādyam—original\n"
     }
-  ],
-  [ {
+  ]},
+  {"1":[ {
     "chapter_id": 9,
     "chapter_number": 9,
     "externalId": 339,
@@ -4472,8 +4473,9 @@
       "transliteration": "man-manā bhava mad-bhakto mad-yājī māṁ namaskuru\nmām evaiṣhyasi yuktvaivam ātmānaṁ mat-parāyaṇaḥ\n",
       "word_meanings": "mat-manāḥ—always think of me; bhava—be; mat—my; bhaktaḥ—devotee; mat—my; yājī—worshipper; mām—to me; namaskuru—offer obeisances; mām—to me; eva—certainly; eṣhyasi—you will come; yuktvā—united with me; evam—thus; ātmānam—your mind and body; mat-parāyaṇaḥ—having dedicated to me\n"
     }
-  ],
- [ {
+  ]},
+  {"1":[
+   {
    "chapter_id": 10,
    "chapter_number": 10,
    "externalId": 373,
@@ -4977,8 +4979,8 @@
      "transliteration": "atha vā bahunaitena kiṁ jñātena tavārjuna\nviṣhṭabhyāham idaṁ kṛitsnam ekānśhena sthito jagat\n",
      "word_meanings": "athavā—or; bahunā—detailed; etena—by this; kim—what; jñātena tava—can be known by you; arjuna—Arjun; viṣhṭabhya—pervade and support; aham—I; idam—this; kṛitsnam—entire; eka—by one; anśhena—fraction; sthitaḥ—am situated; jagat—creation\n"
    }
- ],
-  [
+ ]},
+  {"1": [
     {
     "chapter_id": 11,
     "chapter_number": 11,
@@ -5639,8 +5641,9 @@
       "transliteration": "mat-karma-kṛin mat-paramo mad-bhaktaḥ saṅga-varjitaḥ\nnirvairaḥ sarva-bhūteṣhu yaḥ sa mām eti pāṇḍava\n",
       "word_meanings": "mat-karma-kṛit—perform duties for my sake; mat-paramaḥ—considering me the Supreme; mat-bhaktaḥ—devoted to me; saṅga-varjitaḥ—free from attachment; nirvairaḥ—without malice; sarva-bhūteṣhu—toward all entities; yaḥ—who; saḥ—he; mām—to me; eti—comes; pāṇḍava—Arjun, the son of Pandu\n"
     }
-  ],
-  [ {
+  ]},
+  {"1": [
+    {
     "chapter_id": 12,
     "chapter_number": 12,
     "externalId": 470,
@@ -5880,8 +5883,9 @@
       "transliteration": "ye tu dharmyāmṛitam idaṁ yathoktaṁ paryupāsate\nśhraddadhānā mat-paramā bhaktās te ’tīva me priyāḥ\n",
       "word_meanings": "ye—who; tu—indeed; dharma—of wisdom; amṛitam—nectar; idam—this; yathā—as; uktam—declared; paryupāsate—exclusive devotion; śhraddadhānāḥ—with faith; mat-paramāḥ—intent on me as the supreme goal; bhaktāḥ—devotees; te—they; atīva—exceedingly; me—to me; priyāḥ—dear\n"
     }
-  ],
-  [ {
+  ]},
+  {"1": [
+    {
     "chapter_id": 13,
     "chapter_number": 13,
     "externalId": 490,
@@ -6301,8 +6305,9 @@
       "transliteration": "kṣhetra-kṣhetrajñayor evam antaraṁ jñāna-chakṣhuṣhā\nbhūta-prakṛiti-mokṣhaṁ cha ye vidur yānti te param\n",
       "word_meanings": "kṣhetra—the body; kṣhetra-jñayoḥ—of the knower of the body; evam—thus; antaram—the difference; jñāna-chakṣhuṣhā—with the eyes of knowledge; bhūta—the living entity; prakṛiti-mokṣham—release from material nature; cha—and; ye—who; viduḥ—know; yānti—approach; te—they; param—the Supreme\n"
     }
-  ],
- [ {
+  ]},
+  {"1": [
+   {
    "chapter_id": 14,
    "chapter_number": 14,
    "externalId": 525,
@@ -6626,8 +6631,9 @@
      "transliteration": "brahmaṇo hi pratiṣhṭhāham amṛitasyāvyayasya cha\nśhāśhvatasya cha dharmasya sukhasyaikāntikasya cha\n",
      "word_meanings": "brahmaṇaḥ—of Brahman; hi—only; pratiṣhṭhā—the basis; aham—I; amṛitasya—of the immortal; avyayasya—of the imperishable; cha—and; śhāśhvatasya—of the eternal; cha—and; dharmasya—of the dharma; sukhasya—of bliss; aikāntikasya—unending; cha—and\n"
    }
- ],
- [ {
+ ]},
+  {"1": [
+   {
    "chapter_id": 15,
    "chapter_number": 15,
    "externalId": 552,
@@ -6867,8 +6873,9 @@
      "transliteration": "iti guhyatamaṁ śhāstram idam uktaṁ mayānagha\netad buddhvā buddhimān syāt kṛita-kṛityaśh cha bhārata\n",
      "word_meanings": "iti—these; guhya-tamam—most secret; śhāstram—Vedic scriptures; idam—this; uktam—spoken; mayā—by me; anagha—Arjun, the sinless one; etat—this; buddhvā—understanding; buddhi-mān—enlightened; syāt—one becomes; kṛita-kṛityaḥ—who fulfills all that is to be accomplished; cha—and; bhārata—Arjun, the son of Bharat\n"
    }
- ],
- [ {
+ ]},
+  {"1": [
+   {
    "chapter_id": 16,
    "chapter_number": 16,
    "externalId": 572,
@@ -7156,8 +7163,9 @@
      "transliteration": "tasmāch chhāstraṁ pramāṇaṁ te kāryākārya-vyavasthitau\njñātvā śhāstra-vidhānoktaṁ karma kartum ihārhasi\n",
      "word_meanings": "tasmāt—therefore; śhāstram—scriptures; pramāṇam—authority; te—your; kārya—duty; akārya—forbidden action; vyavasthitau—in determining; jñātvā—having understood; śhāstra—scriptures; vidhāna—injunctions; uktam—as revealed; karma—actions; kartum—perform; iha—in this world; arhasi—you should\n"
    }
- ],
- [ {
+ ]},
+  {"1": [
+   {
    "chapter_id": 17,
    "chapter_number": 17,
    "externalId": 596,
@@ -7493,8 +7501,9 @@
      "transliteration": "aśhraddhayā hutaṁ dattaṁ tapas taptaṁ kṛitaṁ cha yat\nasad ity uchyate pārtha na cha tat pretya no iha\n",
      "word_meanings": "aśhraddhayā—without faith; hutam—sacrifice; dattam—charity; tapaḥ—penance; taptam—practiced; kṛitam—done; cha—and; yat—which; asat—perishable; iti—thus; uchyate—are termed as; pārtha—Arjun, the son of Pritha; na—not; cha—and; tat—that; pretya—in the next world; na u—not; iha—in this world\n"
    }
- ],
- [ {
+ ]},
+  {"1": [
+   {
    "chapter_id": 18,
    "chapter_number": 18,
    "externalId": 624,
@@ -8430,5 +8439,5 @@
      "transliteration": "yatra yogeśhvaraḥ kṛiṣhṇo yatra pārtho dhanur-dharaḥ\ntatra śhrīr vijayo bhūtir dhruvā nītir matir mama\n",
      "word_meanings": "yatra—wherever; yoga-īśhvaraḥ—Shree Krishna, the Lord of Yog; kṛiṣhṇaḥ—Shree Krishna; yatra—wherever; pārthaḥ—Arjun, the son of Pritha; dhanuḥ-dharaḥ—the supreme archer; tatra—there; śhrīḥ—opulence; vijayaḥ—victory; bhūtiḥ—prosperity; dhruvā—unending; nītiḥ—righteousness; matiḥ mama—my opinion\n"
    }
- ]
+ ]}
 ]
