@@ -1,10 +1,12 @@
 class Verse{
- Sholok? sholok;
-
- Verse({this.sholok});
+ List<Sholok>? sholokList;
+ String? name,nameE;
+ Verse({this.sholokList,this.name,this.nameE});
  factory Verse.mapToModel(Map m1)
  {
-   return Verse(sholok: Sholok.mapToModel(m1["1"]));
+   List l1 = m1["1"];
+   List<Sholok> s1=  l1.map((e) => Sholok.mapToModel(e)).toList();
+   return Verse(sholokList: s1,name: m1["name"],nameE: m1["name_e"]);
  }
 }
 class Sholok{
