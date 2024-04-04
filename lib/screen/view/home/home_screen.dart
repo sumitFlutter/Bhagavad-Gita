@@ -15,9 +15,9 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return SafeArea(child: Scaffold(appBar: AppBar(title: Text("Bhagavad Gita"),actions: [
-        IconButton(onPressed: () {
-          context.read<ThemeProvider>().setTheme();
-        },icon: Icon(context.watch<ThemeProvider>().themeMode)),
+      IconButton(onPressed: () {
+        context.read<ThemeProvider>().setTheme();
+      },icon: Icon(context.watch<ThemeProvider>().themeMode)),
       PopupMenuButton(itemBuilder: (context) {
         return [PopupMenuItem(child: const Text("Change App's Language"),onTap: () {
           showDialog(context: context, builder:(context) {
@@ -39,32 +39,32 @@ class _HomeScreenState extends State<HomeScreen> {
         },)];
       },)
     ],),
-    body: Container(height: MediaQuery.sizeOf(context).height,
-    width: MediaQuery.sizeOf(context).width,
-      color:  Color(0xffd27a16),
-      padding: EdgeInsets.all(10),
-      child:GridView.builder(gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2), itemBuilder: (context, index) {
-        return InkWell(
-          onTap: () {
-            Navigator.pushNamed(context, "details");
-            context.read<GitaProvider>().getAdhaay(index);
-          },
-          child: Container(margin: EdgeInsets.all(10),
-          padding: EdgeInsets.all(5),
-          color: Colors.orange.shade400,
-          child: Column(mainAxisSize: MainAxisSize.min,
-          crossAxisAlignment: CrossAxisAlignment.center,
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Center(child: Image.asset("assets/image/gita/$index.jpeg",height: 108,width: 192,fit: BoxFit.cover,)),
-            SizedBox(height: 10,),
-            context.watch<GitaProvider>().isSan?
-            Text("${context.read<GitaProvider>().verseModelList[index].name}",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 18),):
-            Text("${context.read<GitaProvider>().verseModelList[index].nameE}",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 18),),
-          ],)
-            ,),
-        );
-      },itemCount: context.read<GitaProvider>().verseModelList.length,)
-    ),));
+      body: Container(height: MediaQuery.sizeOf(context).height,
+          width: MediaQuery.sizeOf(context).width,
+          color:  Color(0xffd27a16),
+          padding: EdgeInsets.all(10),
+          child:GridView.builder(gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2), itemBuilder: (context, index) {
+            return InkWell(
+              onTap: () {
+                Navigator.pushNamed(context, "details");
+                context.read<GitaProvider>().getAdhaay(index);
+              },
+              child: Container(margin: EdgeInsets.all(10),
+                padding: EdgeInsets.all(5),
+                color: Colors.orange.shade400,
+                child: Column(mainAxisSize: MainAxisSize.min,
+                  crossAxisAlignment: CrossAxisAlignment.center,
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Center(child: Image.asset("assets/image/gita/$index.jpeg",height: 108,width: 192,fit: BoxFit.cover,)),
+                    SizedBox(height: 10,),
+                    context.watch<GitaProvider>().isSan?
+                    Text("${context.read<GitaProvider>().verseModelList[index].name}",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 18),):
+                    Text("${context.read<GitaProvider>().verseModelList[index].nameE}",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 18),),
+                  ],)
+                ,),
+            );
+          },itemCount: context.read<GitaProvider>().verseModelList.length,)
+      ),));
   }
 }

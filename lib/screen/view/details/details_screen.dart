@@ -36,7 +36,7 @@ class _DetailsScreenState extends State<DetailsScreen> {
                 margin: EdgeInsets.all(10),
                     padding: EdgeInsets.all(5),
                     decoration: BoxDecoration(border: Border.all(color: Colors.grey),color: Color(0xffd27a16),),
-                    child: Center(child:w!.isSan?Text(w!.verseModelList[w!.index].sholokList![index].hin!,style: TextStyle(fontWeight: FontWeight.bold,fontSize: 15),):Text(w!.verseModelList[w!.index].sholokList![index].eng!,style: TextStyle(fontWeight: FontWeight.bold,fontSize: 15),)),);
+                    child: Center(child:w!.isSan?SelectableText(w!.verseModelList[w!.index].sholokList![index].hin!,style: TextStyle(fontWeight: FontWeight.bold,fontSize: 15),):SelectableText(w!.verseModelList[w!.index].sholokList![index].eng!,style: TextStyle(fontWeight: FontWeight.bold,fontSize: 15),)),);
                     },itemCount:  w!.verseModelList[w!.index].sholokList!.length,)
             ],
           ),
