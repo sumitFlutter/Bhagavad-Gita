@@ -28,10 +28,8 @@ class _HomeScreenState extends State<HomeScreen> {
                 ElevatedButton(onPressed: () {
                   context.watch<GitaProvider>().changeLan();
                   Navigator.pop(context);
-                  Navigator.pop(context);
                 }, child: Text("Yes!")),
                 ElevatedButton(onPressed: () {
-                  Navigator.pop(context);
                   Navigator.pop(context);
                 }, child: Text("No!"))
 
