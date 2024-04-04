@@ -6,14 +6,22 @@
 ->Multi Language Shlock Like Sanskrit and English<br>
 -> permanent Theme Change<br>
 ->permanent Shlock Language Change<br>
--> this app is created using Json, Share Preferences and Provider<br>
-  <img src="https://github.com/sumitFlutter/Bhagavad-Gita/assets/153794386/f0cc0470-6594-4c26-9b09-72284a6e5046"    height="400px" width="200px"/>
+-> This app is created using Json, Share Preferences and Provider<br>
+ ->You can select Verse (Shlok) with help of selectable Text Widget<br>
+ <h1>Screenshots </h1>
+ <img src="https://github.com/sumitFlutter/Bhagavad-Gita/assets/153794386/2d21386b-e8dd-48a1-a7ef-bfb6d841befa"     height="400px" width="200px"/>
+  <img src="https://github.com/sumitFlutter/Bhagavad-Gita/assets/153794386/6e3f6a08-61d2-4e8d-97fb-4c8e6d71f7a3"     height="400px" width="200px"/>
+<img src="https://github.com/sumitFlutter/Bhagavad-Gita/assets/153794386/08924402-a939-4242-9ef5-95cefe26f2c0"     height="400px" width="200px"/>
+<img src="https://github.com/sumitFlutter/Bhagavad-Gita/assets/153794386/69eec06a-25ef-447f-97e6-5630df0b2950"     height="400px" width="200px"/>
+
  <img src="https://github.com/sumitFlutter/Bhagavad-Gita/assets/153794386/872a87db-2bf5-4789-9d89-56e9cdc15314"    height="400px" width="200px"/>
 
-
+<h1> Video </h1>
 
 
 
   
-https://github.com/sumitFlutter/Bhagavad-Gita/assets/153794386/701e3b30-8268-46f6-8f3a-469d29cb2d96
+https://github.com/sumitFlutter/Bhagavad-Gita/assets/153794386/0e95f5ad-0595-4738-ab2b-a9b85a10f25c
+
+
 </p>
