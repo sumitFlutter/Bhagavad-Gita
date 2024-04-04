@@ -14,7 +14,7 @@
 <img src="https://github.com/sumitFlutter/Bhagavad-Gita/assets/153794386/08924402-a939-4242-9ef5-95cefe26f2c0"     height="400px" width="200px"/>
 <img src="https://github.com/sumitFlutter/Bhagavad-Gita/assets/153794386/69eec06a-25ef-447f-97e6-5630df0b2950"     height="400px" width="200px"/>
 <img src="https://github.com/sumitFlutter/Bhagavad-Gita/assets/153794386/f7e35ae1-cfa6-460e-aee6-0f554ab643f9"     height="400px" width="200px"/>
- <img src="https://github.com/sumitFlutter/Bhagavad-Gita/assets/153794386/872a87db-2bf5-4789-9d89-56e9cdc15314"    height="400px" width="200px"/>
+ 
 
 <h1> Video </h1>
 
