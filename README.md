@@ -1,7 +1,7 @@
 <p>
  <h1> Bhagavad-Gita Reader:-</h1>
 <h2>It's Features:-</h2>
-->All Chapter Support<br>
+->All Chapter Added<br>
 ->Theme Change<br>
 ->Multi Language Shlock Like Sanskrit and English<br>
 -> permanent Theme Change<br>
