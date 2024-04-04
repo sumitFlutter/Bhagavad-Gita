@@ -1,5 +1,3 @@
-# bhagavad_gita
-
 <p>
  <h1> Bhagavad-Gita Reader:-</h1>
 <h2>It's Features:-</h2>
